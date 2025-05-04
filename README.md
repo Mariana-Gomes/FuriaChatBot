@@ -3,7 +3,7 @@ O desafio propunha o desenvolvimento de um caso de uso conversacional relacionad
 
 ## 📱 O App  
 
-![ChatBotFuria](https://github.com/user-attachments/assets/3612b5b9-ced5-4a54-8800-bde2616e6cf8)
+![ChatBotFuria](https://github.com/user-attachments/assets/3205effb-ebee-497d-a047-96b9523d6ba9)
 
 ## 👩🏻‍💻 Tecnologias Utilizadas  
 - **React Native**: Biblioteca para construir aplicativos móveis.  
