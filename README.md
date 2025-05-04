@@ -32,3 +32,6 @@ npx expo start
 ```
 - Utilizando o aplicativo **Expo Go** em seu celular scaneie o QRCode que será gerado ou o QRCode que está aqui embaixo:
 
+<img src="https://github.com/user-attachments/assets/f08da05c-aaed-42d9-acc8-06157650fe80" width="25%"/>
+
+
