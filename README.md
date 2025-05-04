@@ -8,15 +8,14 @@ O desafio propunha o desenvolvimento de um caso de uso conversacional relacionad
 ## 👩🏻‍💻 Tecnologias Utilizadas  
 - **React Native**: Biblioteca para construir aplicativos móveis.  
 - **Expo**: Ferramenta para desenvolvimento rápido de aplicações React Native.  
-- **Styled-Components**: Biblioteca para estilização de componentes, permitindo escrever estilos CSS diretamente no código JavaScript.  
 - **TypeScript**: Superset do JavaScript que adiciona tipagem estática, proporcionando maior segurança e facilidade na manutenção do código.  
 
-
 ## ⚙️ Instruções para Rodar o Projeto  
-1. **Clone o repositório**  
+1. **Clone o repositório**
+   
 ```bash
-git clone https://github.com/Mariana-Gomes/ChatBotFuria.git  
-cd ChatBotFuria
+git clone https://github.com/Mariana-Gomes/FuriaChatBot.git  
+cd FuriaChatBot
 ```
 
 2. **Instale as dependências**
